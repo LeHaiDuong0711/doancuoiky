@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Microsoft</title>
+	<atom:link href="http://localhost/myproject/wordpress/brand/microsoft/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lehaiduong0711.github.io/doancuoiky</link>
+	<description></description>
+	<lastBuildDate>Thu, 13 Oct 2022 05:08:35 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>15.6″ FHD Display, Intel i5-1035G1 CPU, 8 GB RAM</title>
+		<link>https://lehaiduong0711.github.io/doancuoiky/san-pham/15-6%e2%80%b3-fhd-display-intel-i5-1035g1-cpu-8-gb-ram/</link>
+					<comments>https://lehaiduong0711.github.io/doancuoiky/san-pham/15-6%e2%80%b3-fhd-display-intel-i5-1035g1-cpu-8-gb-ram/#respond</comments>
+		
+		<dc:creator><![CDATA[lehaiduong]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 09:07:35 +0000</pubDate>
+				<guid isPermaLink="false">https://lehaiduong0711.github.io/doancuoiky/?post_type=product&#038;p=653</guid>
+
+					<description><![CDATA[Est et vel sed explicabo recusandae et facere veritatis. Sunt iste enim quam quis. Omnis itaque veritatis suscipit sint ea sit nihil.]]></description>
+										<content:encoded><![CDATA[<p>Est consequatur repellat rerum id. Quo sed commodi quaerat ipsam facilis.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lehaiduong0711.github.io/doancuoiky/san-pham/15-6%e2%80%b3-fhd-display-intel-i5-1035g1-cpu-8-gb-ram/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Desktop Computer PC, Intel Core i5 3.2GHz</title>
+		<link>https://lehaiduong0711.github.io/doancuoiky/san-pham/desktop-computer-pc-intel-core-i5-3-2ghz/</link>
+					<comments>https://lehaiduong0711.github.io/doancuoiky/san-pham/desktop-computer-pc-intel-core-i5-3-2ghz/#respond</comments>
+		
+		<dc:creator><![CDATA[lehaiduong]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 02:47:55 +0000</pubDate>
+				<guid isPermaLink="false">https://lehaiduong0711.github.io/doancuoiky/?post_type=product&#038;p=601</guid>
+
+					<description><![CDATA[Quasi nulla nihil quis ut quia vero consequatur cupiditate. Odit occaecati quia tempore aut ipsa iusto voluptates. Repellat quae necessitatibus voluptatum sint.]]></description>
+										<content:encoded><![CDATA[<p>Nihil laborum itaque consequatur sed odio dicta voluptas ut. Repellat optio voluptates dolorem dolore voluptatum aut. Labore odit quis esse eveniet distinctio.</p>
+<p>Provident aut tempore consequuntur non et. Delectus sint laudantium illum sed.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lehaiduong0711.github.io/doancuoiky/san-pham/desktop-computer-pc-intel-core-i5-3-2ghz/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
