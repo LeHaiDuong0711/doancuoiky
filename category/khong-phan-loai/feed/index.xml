@@ -15,24 +15,60 @@
 	<atom:link href="http://localhost/myproject/wordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lehaiduong0711.github.io/doancuoiky</link>
 	<description></description>
-	<lastBuildDate>Tue, 01 Nov 2022 15:13:07 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 03 Nov 2022 14:18:50 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
+		<title>Tin tức 24h</title>
+		<link>https://lehaiduong0711.github.io/doancuoiky/tin-tuc-24h/</link>
+					<comments>https://lehaiduong0711.github.io/doancuoiky/tin-tuc-24h/#respond</comments>
+		
+		<dc:creator><![CDATA[lehaiduong]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 08:25:20 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://lehaiduong0711.github.io/doancuoiky/?p=971</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://lehaiduong0711.github.io/doancuoiky/tin-tuc-24h/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Giới thiệu về anime naruto</title>
+		<link>https://lehaiduong0711.github.io/doancuoiky/gioi-thieu-ve-anime-naruto/</link>
+					<comments>https://lehaiduong0711.github.io/doancuoiky/gioi-thieu-ve-anime-naruto/#respond</comments>
+		
+		<dc:creator><![CDATA[lehaiduong]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 08:24:59 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://lehaiduong0711.github.io/doancuoiky/?p=969</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://lehaiduong0711.github.io/doancuoiky/gioi-thieu-ve-anime-naruto/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Thiết bị điện</title>
 		<link>https://lehaiduong0711.github.io/doancuoiky/phan-loai-thiet-bi-dien/</link>
-					<comments>https://lehaiduong0711.github.io/doancuoiky/phan-loai-thiet-bi-dien/#respond</comments>
+					<comments>https://lehaiduong0711.github.io/doancuoiky/phan-loai-thiet-bi-dien/#comments</comments>
 		
 		<dc:creator><![CDATA[lehaiduong]]></dc:creator>
 		<pubDate>Tue, 01 Nov 2022 13:30:11 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
 		<guid isPermaLink="false">https://lehaiduong0711.github.io/doancuoiky/?p=90</guid>
 
-					<description><![CDATA[1. Thiết bị điện là gì? Thiết bị điện là các thiết bị hoạt động với nhiệm vụ đóng cắt, điều khiển, điều chỉnh, bảo vệ, chuyển đổi, kiểm tra,…]]></description>
+					<description><![CDATA[1.Thiết bị điện là gì? Thiết bị điện là các thiết bị hoạt động với nhiệm vụ đóng cắt, điều khiển, điều chỉnh, bảo vệ, chuyển đổi, kiểm tra,… tất]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="90" class="elementor elementor-90">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-f9b62e0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f9b62e0" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -41,7 +77,7 @@
 								<div class="elementor-element elementor-element-29211ed elementor-widget elementor-widget-heading" data-id="29211ed" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.7.8 - 02-10-2022 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">1. Thiết bị điện là gì?</h2>		</div>
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">1.Thiết bị điện là gì?</h2>		</div>
 				</div>
 					</div>
 		</div>
@@ -54,7 +90,7 @@
 								<div class="elementor-element elementor-element-b4caf1f elementor-widget elementor-widget-image" data-id="b4caf1f" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.7.8 - 02-10-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="600" height="418" src="https://lehaiduong0711.github.io/doancuoiky/wp-content/uploads/2022/11/dien-dan-dung-la-gi-min.jpg" class="attachment-large size-large" alt="một số ản phẩm thiết bị điện" loading="lazy" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="600" height="418" src="https://lehaiduong0711.github.io/doancuoiky/wp-content/uploads/2022/11/dien-dan-dung-la-gi-min.jpg" class="attachment-large size-large" alt="một số ản phẩm thiết bị điện" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -115,7 +151,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-6fde0d7 elementor-widget elementor-widget-image" data-id="6fde0d7" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="275" height="183" src="https://lehaiduong0711.github.io/doancuoiky/wp-content/uploads/2022/11/tai-xuong.jpg" class="attachment-full size-full" alt="thiết bị điện dân dụng" loading="lazy" />															</div>
+															<img decoding="async" width="275" height="183" src="https://lehaiduong0711.github.io/doancuoiky/wp-content/uploads/2022/11/tai-xuong.jpg" class="attachment-full size-full" alt="thiết bị điện dân dụng" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -151,7 +187,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-c8eecba elementor-widget elementor-widget-image" data-id="c8eecba" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="225" height="225" src="https://lehaiduong0711.github.io/doancuoiky/wp-content/uploads/2022/11/tai-xuong-1.jpg" class="attachment-full size-full" alt="thiết bị điện công nghiệp" loading="lazy" />															</div>
+															<img decoding="async" width="225" height="225" src="https://lehaiduong0711.github.io/doancuoiky/wp-content/uploads/2022/11/tai-xuong-1.jpg" class="attachment-full size-full" alt="thiết bị điện công nghiệp" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -176,7 +212,7 @@
 								<div class="elementor-element elementor-element-df62ab4 elementor-align-right elementor-widget elementor-widget-button" data-id="df62ab4" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#thiet-bi-dien" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="https://lehaiduong0711.github.io/doancuoiky/phan-loai-thiet-bi-dien/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Trở lại</span>
 		</span>
@@ -192,7 +228,7 @@
 		]]></content:encoded>
 					
 					<wfw:commentRss>https://lehaiduong0711.github.io/doancuoiky/phan-loai-thiet-bi-dien/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>5</slash:comments>
 		
 		
 			</item>

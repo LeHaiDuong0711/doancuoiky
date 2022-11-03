@@ -14,11 +14,95 @@
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lehaiduong0711.github.io/doancuoiky</link>
 	<description></description>
-	<lastBuildDate>Wed, 02 Nov 2022 01:10:39 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 03 Nov 2022 14:18:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
-</channel>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		Phản hồi cho Thiết bị điện bởi lehaiduong		</title>
+		<link>https://lehaiduong0711.github.io/doancuoiky/phan-loai-thiet-bi-dien/#comment-12</link>
+
+		<dc:creator><![CDATA[lehaiduong]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 13:57:46 +0000</pubDate>
+		<guid isPermaLink="false">https://lehaiduong0711.github.io/doancuoiky/?p=90#comment-12</guid>
+
+					<description><![CDATA[thiết bị điện mãi đĩnh]]></description>
+			<content:encoded><![CDATA[<p>thiết bị điện mãi đĩnh</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Phản hồi cho (upsel-crossel)43″ Class TU7000 Series Crystal UHD 4K Smart TV bởi lehaiduong		</title>
+		<link>https://lehaiduong0711.github.io/doancuoiky/san-pham/43%e2%80%b3-class-tu7000-series-crystal-uhd-4k-smart-tv/#comment-11</link>
+
+		<dc:creator><![CDATA[lehaiduong]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 09:49:39 +0000</pubDate>
+		<guid isPermaLink="false">https://lehaiduong0711.github.io/doancuoiky/?post_type=product&#038;p=610#comment-11</guid>
+
+					<description><![CDATA[sản phẩm tốt shop hỗ trợ nhiệt tình]]></description>
+			<content:encoded><![CDATA[<p>sản phẩm tốt shop hỗ trợ nhiệt tình</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Phản hồi cho Thiết bị điện bởi lehaiduong		</title>
+		<link>https://lehaiduong0711.github.io/doancuoiky/phan-loai-thiet-bi-dien/#comment-10</link>
+
+		<dc:creator><![CDATA[lehaiduong]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 09:44:49 +0000</pubDate>
+		<guid isPermaLink="false">https://lehaiduong0711.github.io/doancuoiky/?p=90#comment-10</guid>
+
+					<description><![CDATA[hihi]]></description>
+			<content:encoded><![CDATA[<p>hihi</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Phản hồi cho Thiết bị điện bởi lehaiduong		</title>
+		<link>https://lehaiduong0711.github.io/doancuoiky/phan-loai-thiet-bi-dien/#comment-9</link>
+
+		<dc:creator><![CDATA[lehaiduong]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 09:44:34 +0000</pubDate>
+		<guid isPermaLink="false">https://lehaiduong0711.github.io/doancuoiky/?p=90#comment-9</guid>
+
+					<description><![CDATA[verry good]]></description>
+			<content:encoded><![CDATA[<p>verry good</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Phản hồi cho Thiết bị điện bởi lehaiduong		</title>
+		<link>https://lehaiduong0711.github.io/doancuoiky/phan-loai-thiet-bi-dien/#comment-8</link>
+
+		<dc:creator><![CDATA[lehaiduong]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 09:44:13 +0000</pubDate>
+		<guid isPermaLink="false">https://lehaiduong0711.github.io/doancuoiky/?p=90#comment-8</guid>
+
+					<description><![CDATA[tiếp tục phát huy]]></description>
+			<content:encoded><![CDATA[<p>tiếp tục phát huy</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Phản hồi cho Thiết bị điện bởi lehaiduong		</title>
+		<link>https://lehaiduong0711.github.io/doancuoiky/phan-loai-thiet-bi-dien/#comment-7</link>
+
+		<dc:creator><![CDATA[lehaiduong]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 09:43:53 +0000</pubDate>
+		<guid isPermaLink="false">https://lehaiduong0711.github.io/doancuoiky/?p=90#comment-7</guid>
+
+					<description><![CDATA[hay quá hay quá]]></description>
+			<content:encoded><![CDATA[<p>hay quá hay quá</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>
